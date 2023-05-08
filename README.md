@@ -11,6 +11,10 @@ Presentation (Track2 14:50~)
 
 * [PDF](./20230324_NTTTechConf_PianoScoring_r3.pdf)
 
+## アーカイブ動画
+
+* [アーカイブ動画](https://www.youtube.com/watch?v=sBriGtPQj9Q&t=1889s)
+
 ## 参考文献
 
 * 報道発表
