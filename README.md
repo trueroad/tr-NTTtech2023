@@ -17,6 +17,9 @@ Presentation (Track2 14:50~)
 
 ## 参考文献
 
+* モニタ募集
+    + [おうちのピアノ練習をサポートする新サービスのモニターを募集します！
+](https://corporate.piano.or.jp/news/2023/06/entry_162.html)
 * 報道発表
     + [音楽教育業界におけるDXを活用した音楽学習指導実現に向けた取り組み
 ](https://www.ntt-east.co.jp/release/detail/20220608_01.html)
